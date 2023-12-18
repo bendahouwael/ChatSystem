@@ -1,0 +1,14 @@
+C:\Users\Waelbendahou\Desktop\UltimateC#\ChatSystem\ChatClient\bin\Debug\net7.0\ChatClient.exe
+C:\Users\Waelbendahou\Desktop\UltimateC#\ChatSystem\ChatClient\bin\Debug\net7.0\ChatClient.deps.json
+C:\Users\Waelbendahou\Desktop\UltimateC#\ChatSystem\ChatClient\bin\Debug\net7.0\ChatClient.runtimeconfig.json
+C:\Users\Waelbendahou\Desktop\UltimateC#\ChatSystem\ChatClient\bin\Debug\net7.0\ChatClient.dll
+C:\Users\Waelbendahou\Desktop\UltimateC#\ChatSystem\ChatClient\bin\Debug\net7.0\ChatClient.pdb
+C:\Users\Waelbendahou\Desktop\UltimateC#\ChatSystem\ChatClient\obj\Debug\net7.0\ChatClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Waelbendahou\Desktop\UltimateC#\ChatSystem\ChatClient\obj\Debug\net7.0\ChatClient.AssemblyInfoInputs.cache
+C:\Users\Waelbendahou\Desktop\UltimateC#\ChatSystem\ChatClient\obj\Debug\net7.0\ChatClient.AssemblyInfo.cs
+C:\Users\Waelbendahou\Desktop\UltimateC#\ChatSystem\ChatClient\obj\Debug\net7.0\ChatClient.csproj.CoreCompileInputs.cache
+C:\Users\Waelbendahou\Desktop\UltimateC#\ChatSystem\ChatClient\obj\Debug\net7.0\ChatClient.dll
+C:\Users\Waelbendahou\Desktop\UltimateC#\ChatSystem\ChatClient\obj\Debug\net7.0\refint\ChatClient.dll
+C:\Users\Waelbendahou\Desktop\UltimateC#\ChatSystem\ChatClient\obj\Debug\net7.0\ChatClient.pdb
+C:\Users\Waelbendahou\Desktop\UltimateC#\ChatSystem\ChatClient\obj\Debug\net7.0\ChatClient.genruntimeconfig.cache
+C:\Users\Waelbendahou\Desktop\UltimateC#\ChatSystem\ChatClient\obj\Debug\net7.0\ref\ChatClient.dll
